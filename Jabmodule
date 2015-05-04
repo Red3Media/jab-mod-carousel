@@ -1,0 +1,5 @@
+#!/bin/sh
+
+name="jab-mod-carousel"
+version="0.0.9"
+afterBS=("_carousel.scss")
